@@ -1,0 +1,13 @@
+{
+  "principal": 300000,
+  "annual_interest_rate": 4.5,
+  "loan_term_years": 30,
+  "start_date": "2024-01-01",
+  "property_value": null,
+  "down_payment": null,
+  "annual_property_tax": null,
+  "annual_insurance": null,
+  "pmi_rate": null,
+  "monthly_hoa": null,
+  "extra_monthly_payment": null
+}

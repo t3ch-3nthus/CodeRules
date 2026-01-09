@@ -1,0 +1,13 @@
+{
+  "principal": 280000,
+  "annual_interest_rate": 5.25,
+  "loan_term_years": 30,
+  "start_date": "2024-02-01",
+  "property_value": 350000,
+  "down_payment": 70000,
+  "annual_property_tax": 4200,
+  "annual_insurance": 1200,
+  "pmi_rate": 0.5,
+  "monthly_hoa": 150,
+  "extra_monthly_payment": 200
+}
